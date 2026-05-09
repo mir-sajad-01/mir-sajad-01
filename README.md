@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech CS** student at **IUST, Kashmir** (CGPA: 7.5/10)
+- 🎓 Final-year **B.Tech CS** student at **IUST, Kashmir** 
 - 🛠️ Building full-stack web apps with the **MERN stack**
 - ✅ **GATE CSE 2026** qualified — national-level exam by IITs
 - 🏆 **Hackathon finalist** — cleared 4 rounds & reached the final technical round
