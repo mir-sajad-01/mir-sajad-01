@@ -58,37 +58,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
 
-## 🚀 Projects
-
-### 💰 [FinForge](https://github.com/sajad-bashir-mir) — Financial Tracking Platform
-> React · Tailwind CSS · Node.js · Express.js · MongoDB · JWT · Recharts
-
-- Full-stack financial platform to track income, expenses & transaction history
-- JWT-based authentication with protected API routes
-- Interactive dashboards with Recharts for visualizing spending trends
-- Multi-currency support, dark mode, filtering & sorting
-
----
-
-### 🛠️ [Local Services Aggregator](https://github.com/sajad-bashir-mir) — Hackathon Project
-> React.js · React Router · Tailwind CSS
-
-- Responsive service listing & booking platform built in 24 hours
-- Role-based dashboards for users and service providers
-- Dynamic client-side routing with React Router
-
----
-
-### 🏡 [Wanderlust](https://github.com/sajad-bashir-mir) — Property Rental Platform
-> Node.js · Express.js · MongoDB · EJS · HTML · CSS
-
-- Full-stack platform to browse listings, manage properties & book stays
-- RESTful backend with session-based authentication
-- Dynamic frontend using EJS templating
-
----
 
 ## 🏅 Achievements
 
